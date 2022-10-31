@@ -1,0 +1,13 @@
+.casape{width: 100%; height: 180px; float: left;
+     background-image: url(rodape.png); background-color: #000;}
+.logope{position: absolute; width: 15%; margin-left: 550px; margin-top: 10px;}
+.strede{background-color:rgba(255, 255, 255, 0); width: 20%; margin-left: 515px;
+     margin-top: 55px;}
+.redes{position: absolute; width: 100%;}
+    .redlink, .linkreddois{width: 3.5%; height: 45px; color: #fff;
+  float: left; margin-top: 90px; border-radius: 80px; text-align: center;}
+.linkreddois{margin-left: 60px; margin-top: 96px;}
+.redlink{margin-left: 570px;}
+.redlink, .linkreddois i{font-size: 35px; align-items: center;}
+.spanred{background-color: rgba(0, 0, 0, 0); margin-top: 145px;
+width: 30%; margin-left: 500px; position: absolute; display: flex; width: 26%;}

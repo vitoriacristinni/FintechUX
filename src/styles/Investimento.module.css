@@ -1,0 +1,17 @@
+.casa{width: 100%; height: 478px; font-family: 'Montserrat'; 
+    background-color: #141414; float: left;}
+
+.dicas{margin-top: 60px; color: #E1E1E6; margin-left: 20px; height: 7px;}
+
+.notice{width: 100%; height: 380px; 
+ display: flex; flex-direction: row; justify-content: space-around; align-items: center;}
+
+.campoum, .campodois, .campotres{background-color: beige; width: 32%; height: 320px; border-radius: 10px;}
+.campoum img{width: 100%; height: 100%; border-radius: 9px;}
+.campodois img{width: 100%; height: 100%; border-radius: 9px;}
+.campotres img{width: 100%; height: 100%; border-radius: 9px;}
+
+.tnegum, .tnegdois, .tnegtres{width: 29.8%; font-weight: 600; background-color: rgba(0, 0, 0, 0.332);
+margin-top: 252px; margin-left: 0; padding: 15px; border-radius: 0px 0px 10px 10px; }
+
+a{text-decoration: none; color: #E1E1E6;}

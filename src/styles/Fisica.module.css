@@ -1,0 +1,18 @@
+.contorno{float: left; font-family: 'Montserrat'; width: 100%; height: 480px; background-color: #272727;}
+
+    .pfisica{margin-top: 150px; width: 40%;  background: rgba(255, 255, 255, 0.092);
+        border-radius: 10px; height: 40px; margin-left: 30px; position: absolute;}
+        .tittlefis{width: 25%; margin-top: 5px; margin-left: 15px; background-color: #AA51F8; 
+        color: #E1E1E6; padding: 5px; border-radius: 7px; text-align: center; font-family: 'Montserrat';
+     font-weight: 600;}
+        .textfis{float: left; font-family: 'Montserrat'; font-weight: 700; color: #E1E1E6;
+        margin-left: 180px; position: absolute; margin-top: 10px;}
+        .textocont{margin-top: 70px; font-family: 'Montserrat'; color: #E1E1E6;}
+.espacoimage{width: 50%; height: 480px; margin-left: 670px; 
+margin-top: 0px; position:absolute;}
+.espacoimage img{width: 100%; height: 100%;}
+
+.textum, .textdois{font-family: 'Montserrat'; background: rgba(255, 255, 255, 0.085);
+    border-radius: 10px; width: 20%; padding: 7px; position: absolute; float: left;}
+    .textum{margin-top: 300px; margin-left: 30px;}
+    .textdois{margin-top: 300px; margin-left: 380px; height: 56px;}
